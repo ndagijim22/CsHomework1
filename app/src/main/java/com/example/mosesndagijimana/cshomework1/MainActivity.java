@@ -1,5 +1,8 @@
 package com.example.mosesndagijimana.cshomework1;
 
+/**
+ * Author: Moses Ndagijimana
+ * */
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;

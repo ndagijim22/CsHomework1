@@ -1,5 +1,7 @@
 package com.example.mosesndagijimana.cshomework1;
 /**
+ * @Author: Moses Ndagijimana
+ *
  * Class name: Face
  * Properties: skinColor: int, eyeColor: int, hairColor: int, hairstyle: int
  * methods: a constructor which initiate the object of the class.
