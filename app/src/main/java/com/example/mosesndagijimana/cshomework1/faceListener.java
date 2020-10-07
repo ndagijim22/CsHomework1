@@ -1,4 +1,4 @@
-package edu.up.facemaker;
+package com.example.mosesndagijimana.cshomework1;
 
 import android.util.Log;
 
